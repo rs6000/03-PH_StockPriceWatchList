@@ -1,6 +1,9 @@
 '''
-
-
+sort name: PSEi Stock Watching List
+ver: 0.1 (2020/11/10)
+Author : SmileHsu
+website:https:smilehsu.cc
+email:smile.hsu@gmail.com
 '''
 import tkinter as tk
 from tkinter import ttk
