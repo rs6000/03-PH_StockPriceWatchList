@@ -11,7 +11,8 @@ PC上面使用的菲股看盤工具，所以就邊學(Python Tkinter GUI)邊做
 >> * 安裝pyhton 虛擬環境 (推薦使用 virtualenvwrapper-win)
 >> * Git (如果直接下載本程式zip檔，可以省略)
  ### 快速懶人包:  
-直接使用本篇的範例程式:  
+直接使用本篇的範例程式:
+
     $ git clone https://github.com/rs6000/03-PH_StockPriceWatchList.git
     $ cd myapp (資料夾自己命名)
     $ pip install virtualenvwrapper-win
