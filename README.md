@@ -13,8 +13,9 @@ PC上面使用的菲股看盤工具，所以就邊學(Python Tkinter GUI)邊做
  ### 快速懶人包:  
 直接使用本篇的範例程式:
 
+    $ cd myapp (自己建立的資料夾)
     $ git clone https://github.com/rs6000/03-PH_StockPriceWatchList.git
-    $ cd myapp (資料夾自己命名)
+    $ cd 03-PH_StockPriceWatchList 
     $ pip install virtualenvwrapper-win
     $ mkvirtualenv tk (tk可以自己命名)
     $ workon tk
